@@ -8,7 +8,7 @@
 >>>
 1.统一配置（大部分默认都是；没有提到的，视为默认为  统一保存、通用配置）  
 2.单独配置  
-    【KeyMap】、【Color Scheme】、【Code Style】、【Inspections】、【Scheme】  
+    【KeyMap】、【Color Scheme】、【Code Style】、【Inspections】  
 3.仅区分  通用一个、依赖项目一个（共两个）（且，无法重命名）  
     【File and Code Templates】  
 4.不会保存的  
