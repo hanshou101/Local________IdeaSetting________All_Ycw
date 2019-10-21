@@ -5,6 +5,7 @@
 
 ##2.常见配置项：
 
+>>>
 1.统一配置（大部分默认都是；没有提到的，视为默认为  统一保存、通用配置）
 2.单独配置
     【KeyMap】、【Color Scheme】、【Code Style】、【Inspections】、【Scheme】
