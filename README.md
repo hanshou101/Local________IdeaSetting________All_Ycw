@@ -4,6 +4,7 @@
 ##1.因为  JetBrain官方的两个插件【】、应用市场的一个第三方插件，都有Bug。所以干脆采用  本地jar包管理。
 
 ##2.常见配置项：
+
 1.统一配置（大部分默认都是；没有提到的，视为默认为  统一保存、通用配置）
 2.单独配置
     【KeyMap】、【Color Scheme】、【Code Style】、【Inspections】、【Scheme】
